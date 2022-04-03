@@ -1,0 +1,4 @@
+#!/bin/bash
+su betty
+C-x C-s
+C-x C-c
